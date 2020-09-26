@@ -1,0 +1,5 @@
+D:\Dev\DDD\HabitTracker\Abc.HabitTracker.Api\obj\Debug\netcoreapp3.1\Abc.HabitTracker.Api.csprojAssemblyReference.cache
+D:\Dev\DDD\HabitTracker\Abc.HabitTracker.Api\obj\Debug\netcoreapp3.1\Abc.HabitTracker.Api.AssemblyInfoInputs.cache
+D:\Dev\DDD\HabitTracker\Abc.HabitTracker.Api\obj\Debug\netcoreapp3.1\Abc.HabitTracker.Api.AssemblyInfo.cs
+D:\Dev\DDD\HabitTracker\Abc.HabitTracker.Api\obj\Debug\netcoreapp3.1\Abc.HabitTracker.Api.csproj.CoreCompileInputs.cache
+D:\Dev\DDD\HabitTracker\Abc.HabitTracker.Api\obj\Debug\netcoreapp3.1\Abc.HabitTracker.Api.MvcApplicationPartsAssemblyInfo.cache

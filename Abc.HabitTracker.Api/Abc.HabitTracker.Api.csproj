@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.4" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <DefaultItemExcludes>$(DefaultItemExcludes);obj/**</DefaultItemExcludes>
+</ItemGroup>
+
+<ItemGroup>
+    <ProjectReference Include="..\Tracker\Tracker.csproj" />
+  </ItemGroup>
+
+</Project>

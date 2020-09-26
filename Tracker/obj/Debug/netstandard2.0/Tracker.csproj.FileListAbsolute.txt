@@ -1,0 +1,4 @@
+D:\Dev\DDD\HabitTracker\Tracker\obj\Debug\netstandard2.0\Tracker.csprojAssemblyReference.cache
+D:\Dev\DDD\HabitTracker\Tracker\obj\Debug\netstandard2.0\Tracker.AssemblyInfoInputs.cache
+D:\Dev\DDD\HabitTracker\Tracker\obj\Debug\netstandard2.0\Tracker.AssemblyInfo.cs
+D:\Dev\DDD\HabitTracker\Tracker\obj\Debug\netstandard2.0\Tracker.csproj.CoreCompileInputs.cache
